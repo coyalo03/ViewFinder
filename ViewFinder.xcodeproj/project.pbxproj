@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		1812C36422AEFB22005477D4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1812C36322AEFB22005477D4 /* AppDelegate.swift */; };
-		1812C36622AEFB22005477D4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1812C36522AEFB22005477D4 /* ViewController.swift */; };
 		1812C36922AEFB22005477D4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1812C36722AEFB22005477D4 /* Main.storyboard */; };
 		1812C36C22AEFB22005477D4 /* ViewFinder.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1812C36A22AEFB22005477D4 /* ViewFinder.xcdatamodeld */; };
 		1812C36E22AEFB22005477D4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1812C36D22AEFB22005477D4 /* Assets.xcassets */; };
@@ -18,7 +17,6 @@
 /* Begin PBXFileReference section */
 		1812C36022AEFB22005477D4 /* ViewFinder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ViewFinder.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1812C36322AEFB22005477D4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		1812C36522AEFB22005477D4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		1812C36822AEFB22005477D4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		1812C36B22AEFB22005477D4 /* ViewFinder.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = ViewFinder.xcdatamodel; sourceTree = "<group>"; };
 		1812C36D22AEFB22005477D4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -57,7 +55,6 @@
 			isa = PBXGroup;
 			children = (
 				1812C36322AEFB22005477D4 /* AppDelegate.swift */,
-				1812C36522AEFB22005477D4 /* ViewController.swift */,
 				1812C36722AEFB22005477D4 /* Main.storyboard */,
 				1812C36D22AEFB22005477D4 /* Assets.xcassets */,
 				1812C36F22AEFB22005477D4 /* LaunchScreen.storyboard */,
@@ -139,7 +136,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				1812C36C22AEFB22005477D4 /* ViewFinder.xcdatamodeld in Sources */,
-				1812C36622AEFB22005477D4 /* ViewController.swift in Sources */,
 				1812C36422AEFB22005477D4 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
